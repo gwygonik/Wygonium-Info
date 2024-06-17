@@ -24,11 +24,11 @@ Click a component to learn more.
 
 ### [GB01 Synth](/WygoniumGB01.md)
 
-[<img src="/images/Wygonium_GB01_square.jpg">](/WygoniumGB01.md)
+[<img src="images/Wygonium_GB01_square.jpg">](/WygoniumGB01.md)
 
 ### [C|RB Ribbon Controller](/CRBController.md)
 
-[<img src="/images/Wygonium_CRB_square.jpg">](/CRBController.md)
+[<img src="images/Wygonium_CRB_square.jpg">](/CRBController.md)
 
 ### M101 MIDI Input
 
