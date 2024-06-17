@@ -26,16 +26,9 @@ Click a component to learn more.
 
 [<img src="/images/Wygonium_GB01_square.jpg">](/WygoniumGB01.md)
 
-### C|RB Ribbon Controller
+### [C|RB Ribbon Controller](/CRBController.md)
 
-![A picture of the Wygonium C-RB ribbon controller.](/images/Wygonium_CRB_square.jpg)
-
-- 450mm of pitch and pressure touch input
-- Capacitive touch button to toggle pitch quantization or sustain (drone) mode
-- Right or left handed operation, configurable in GB01
-- Reversable pitch orientation
-- Magnetic "Ribbon Sticks" serve as pitch location reference
-    - Come in 1, 2, and 3 octave formats
+[<img src="/images/Wygonium_CRB_square.jpg">](/CRBController.md))
 
 ### M101 MIDI Input
 
