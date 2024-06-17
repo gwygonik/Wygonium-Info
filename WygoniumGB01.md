@@ -61,3 +61,11 @@
     - Added restart() method to Waveform class to retrigger when used as LFO
 - 12AX7 Tube response curve [from Teensy forum user HOUTSON](https://forum.pjrc.com/index.php?threads/teensy-based-multistage-distortion-modeling-pedal.44061/post-229555)
 - Three waveforms used from [Adventure Kid Waveforms (AKWF)](https://github.com/KristofferKarlAxelEkstrand/AKWF-FREE)
+
+#### Other Stuff
+
+"Wygonium" is obviously(?) a tongue-in-cheek reference to the Trautonium this synth is modelled after, having been named after the creator's last name of Trautwein.
+
+"GB" are the initials of the friend that I built the synth for.
+
+![A pic of the very first version of the GB01](/images/GB01_alpha.png)
