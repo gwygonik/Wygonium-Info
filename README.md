@@ -4,6 +4,8 @@ When a close friend, and fellow musician, jokingly asked me to 3D print him a lo
 
 And then I made him one.
 
+![The initial Wygonium synth kit](/images/WygoniumKit.png)
+
 ## The Story
 
 Almost 100 years after its inception, I re-imagined Friedrich Trautwein's Trautonium synthesizer as a 21st century performance instrument, transporting this old relic into modern times, and in under two months shipped my friend the first Wygonium synth kit. Along with the core synthesizer, the kit included bespoke, modular accessories like a pressure-sensitive ribbon controller, MIDI interface module, and magnetic "ribbon sticks" (indicators of pitch on the ribbon). Six months later, I began porting an old project of mine from other platforms to the Wygonium Kit - my ORBsq Sequencer - an algorithmic sequencer that generates evolving musical patterns. 
