@@ -22,7 +22,7 @@ The beauty of this project's journey is that this elaborate process unfolded in 
 
 ### GB01 Synth
 
-![A picture of the Wygonium GB01 synth](/images/Wygonium_GB01_square.jpg | width=200px)
+<img alt="A picture of the Wygonium GB01 synth" src="https://github.com/gwygonik/Wygonium-Info/blob/main/images/Wygonium_CRB_square.jpg" width="200"/>
 
 ### C|RB Ribbon Controller
 ![A picture of the Wygonium C|RB ribbon controller](/images/Wygonium_CRB_square.jpg)
