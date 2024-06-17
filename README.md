@@ -46,11 +46,21 @@ The beauty of this project's journey is that this elaborate process unfolded in 
 
 ### C|RB Ribbon Controller
 
-![A picture of the Wygonium C|RB ribbon controller.](/images/Wygonium_CRB_square.jpg)
+![A picture of the Wygonium C-RB ribbon controller.](/images/Wygonium_CRB_square.jpg)
+
+- 450mm of pitch and pressure touch input
+- Capacitive touch button to toggle pitch quantization or sustain (drone) mode
+- Right or left handed operation, configurable in GB01
+- Reversable pitch orientation
+- Magnetic "Ribbon Sticks" serve as pitch location reference
+    - Come in 1, 2, and 3 octave formats
 
 ### M101 MIDI Input
 
 ![A picture of the Wygonium M101 MIDI interface.](/images/Wygonium_M101_square.jpg)
+
+- Provides MIDI input to GB01
+- Pitchbend range adjustable in GB01
 
 ### ORBsq Algorithmic Sequencer
 
