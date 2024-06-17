@@ -45,11 +45,19 @@
 - 1x Power switch
 - 1x RJ45 Ethernet jack
 - Custom circuit boards
-- 2x CD4051
-- 1x 74HC595N
+- 2x CD4051 (for encoders)
+- 1x 74HC165 (for buttons)
 - Miscellaneous passives
 
 #### Software
 
-- The usual Teensy/Arduino libraries
-- 
+- The usual, standard Teensy/Arduino libraries
+- Additional Teensy audio libraries (most slightly modified to get specific parameters):
+    - Ensemble by Alexander Davis/[Vince R. Pearson (ElectroTechnique)](https://github.com/ElectroTechnique/TSynth-Teensy4.1) 
+    - Plate Reverb by [Piotr Zapart (hexefx)](https://github.com/hexeguitar/hexefx_audiolib_F32)
+    - Delay10Tap [from Teensy forum user HOUTSON](https://forum.pjrc.com/index.php?threads/can-i-modulate-the-delay-time.61513/post-265954)
+- Custom Teensy audio libraries
+    - Analysis to Variable to track LFO
+    - Added restart() method to Waveform class to retrigger when used as LFO
+- 12AX7 Tube response curve [from Teensy forum user HOUTSON](https://forum.pjrc.com/index.php?threads/teensy-based-multistage-distortion-modeling-pedal.44061/post-229555)
+- Three waveforms used from [Adventure Kid Waveforms (AKWF)](https://github.com/KristofferKarlAxelEkstrand/AKWF-FREE)
