@@ -24,11 +24,11 @@
 - Preset storage
 - Pitch input quantization to musical scales, with root note setting
 
+## Details
+
 ![Another picture of the GB01, showing the front panel](/images/GB01_front.png)
 
 ![Another picture of the GB01, showing the rear panel](/images/GB01_back.png)
-
-## Details
 
 #### Hardware 
 
@@ -51,4 +51,5 @@
 
 #### Software
 
-- TBW
+- The usual Teensy/Arduino libraries
+- 
