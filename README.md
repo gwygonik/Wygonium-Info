@@ -18,11 +18,11 @@ Understanding the complete journey of product creation and use is a critical tra
 
 The beauty of this project's journey is that this elaborate process unfolded in a garage, powered by common maker tools, a handful of YouTube videos, and the wealth of knowledge within the online community. It echoes a sentiment I shared in a talk I gave at SXSWi almost 12 years ago: there has never been a better time to turn ideas into reality! The power to create, innovate, and shape the future is within reach, even in the most unassuming spaces.
 
-## The Details
+## The Devices
 
 ### GB01 Synth
 
-<img alt="A picture of the Wygonium GB01 synth" src="https://github.com/gwygonik/Wygonium-Info/blob/main/images/Wygonium_GB01_square.jpg" width="200"/>
+![A picture of the Wygonium GB01 synth.](/images/Wygonium_GB01_square.jpg)
 
 - 6 oscillators each with 7 waveforms (from pristine classics to lo-fi vintage digital synths)
     - 2 primary oscillators with independent adjustment ±12 semitones 
@@ -46,12 +46,12 @@ The beauty of this project's journey is that this elaborate process unfolded in 
 
 ### C|RB Ribbon Controller
 
-<img alt="A picture of the Wygonium C|RB ribbon controller" src="https://github.com/gwygonik/Wygonium-Info/blob/main/images/Wygonium_CRB_square.jpg" width="200"/>
+![A picture of the Wygonium C|RB ribbon controller.](/images/Wygonium_CRB_square.jpg)
 
 ### M101 MIDI Input
 
-<img alt="A picture of the Wygonium M101 MIDI interface" src="https://github.com/gwygonik/Wygonium-Info/blob/main/images/Wygonium_M101_square.jpg" width="200"/>
+![A picture of the Wygonium M101 MIDI interface.](/images/Wygonium_M101_square.jpg)
 
 ### ORBsq Algorithmic Sequencer
 
-<img alt="A picture of the Wygonium ORBsq sequencer" src="https://github.com/gwygonik/Wygonium-Info/blob/main/images/Wygonium_ORBsq_square.jpg" width="200"/>
+![A picture of the Wygonium ORBsq sequencer.](/images/Wygonium_ORBsq_square.jpg)
