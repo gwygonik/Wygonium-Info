@@ -64,8 +64,12 @@
 
 #### Other Stuff
 
-"Wygonium" is obviously(?) a tongue-in-cheek reference to the Trautonium this synth is modelled after, having been named after the creator's last name of Trautwein.
+"Wygonium" is obviously(?) a tongue-in-cheek reference to the Trautonium this synth is modelled after, that having been named after the creator's last name of Trautwein.
 
 "GB" are the initials of the friend that I built the synth for.
 
+Here's the very first GB01 I made, but thought the shape was too much like existing devices (e.g.: Blofeld, Elektron machines, et al)
 ![A pic of the very first version of the GB01](/images/GB01_alpha.png)
+
+I really wanted the GB01 to be in a vertical orientation, but ergonomically and functionally it was not a good option. Sadly.
+![A pic of the GB01 in it's vertical orientation](/images/GB01_ideal.png)
