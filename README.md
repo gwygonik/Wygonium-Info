@@ -45,12 +45,13 @@ The beauty of this project's journey is that this elaborate process unfolded in 
 - Pitch input quantization to musical scales, with root note setting
 
 ### C|RB Ribbon Controller
-![A picture of the Wygonium C|RB ribbon controller](/images/Wygonium_CRB_square.jpg)
+
+<img alt="A picture of the Wygonium C|RB ribbon controller" src="https://github.com/gwygonik/Wygonium-Info/blob/main/images/Wygonium_CRB_square.jpg" width="200"/>
 
 ### M101 MIDI Input
 
-![A picture of the Wygonium M101 MIDI interface](/images/Wygonium_M101_square.jpg)
+<img alt="A picture of the Wygonium M101 MIDI interface" src="https://github.com/gwygonik/Wygonium-Info/blob/main/images/Wygonium_M101_square.jpg" width="200"/>
 
 ### ORBsq Algorithmic Sequencer
 
-![A picture of the Wygonium ORBsq sequencer](/images/Wygonium_ORBsq_square.jpg)
+<img alt="A picture of the Wygonium ORBsq sequencer" src="https://github.com/gwygonik/Wygonium-Info/blob/main/images/Wygonium_ORBsq_square.jpg" width="200"/>
