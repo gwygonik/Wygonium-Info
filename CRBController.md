@@ -41,7 +41,9 @@ Used with the GB01
 The name "Ribbon Sticks" is a funny homage to the Ian Dury and the Blockheads song "Hit Me With Your Rhythm Stick" (which I'm not a big fan of, but it's a damn catchy song)
 
 Early prototypes of the ribbon sticks
+
 ![A pic of the prototypes of the ribbon sticks - one is paper, the others are laser-cut with penciled-on markings](/images/CRB_sticks_alpha.png)
 
 The back of the ribbon sticks are also laser-engraved and painted (here before all the protective paper has been peeled off)
+
 ![A pic of the back of the ribbon sticks](/images/CRB_sticks_back.png)
