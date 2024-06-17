@@ -45,12 +45,13 @@
 - Jacks:
     - 2x 1/4" audio
     - 1x 1/8" headphones
-    - 1x 2.1 DC power
+    - 1x 2.1mm DC power
+    - 1x RJ45 Ethernet
 - 1x Power switch
-- 1x RJ45 Ethernet jack
 - Custom circuit boards
 - 2x CD4051 (for encoders)
 - 1x 74HC165 (for buttons)
+- 6x 3D-printed knobs
 - Miscellaneous passives
 
 #### Software

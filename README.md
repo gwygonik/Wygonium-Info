@@ -30,10 +30,10 @@ Click a component to learn more.
 
 [<img src="images/Wygonium_CRB_square.jpg">](/CRBController.md)
 
-### M101 MIDI Input
+### [M101 MIDI Input](/WygoniumM101.md)
 
 [<img src="images/Wygonium_M101_square.jpg">](/WygoniumM101.md)
 
-### ORBsq Algorithmic Sequencer
+### [ORBsq Algorithmic Sequencer](/WygoniumORBsq.md)
 
-![A picture of the Wygonium ORBsq sequencer.](/images/Wygonium_ORBsq_square.jpg)
+[<img src="images/Wygonium_ORBsq_square.jpg">](/WygoniumORBsq.md)
