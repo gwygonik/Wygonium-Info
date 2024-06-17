@@ -43,6 +43,8 @@
     - 1x 1/8" headphones
     - 1x 2.1 DC power
 - 1x Power switch
+- 1x RJ45 Ethernet jack
+- Custom circuit boards
 - 2x CD4051
 - 1x 74HC595N
 - Miscellaneous passives
