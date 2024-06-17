@@ -30,6 +30,18 @@
 
 - Teensy 4.1
 - Teensy Audio Board
+- 2.42" OLED display (SSD1309)
+- 4x Bourns rotary encoders
+- 1x 10k audio taper potentiometer
+- 8x NKK 12mm tactile buttons
+- Jacks:
+    - 2x 1/4" audio
+    - 1x 1/8" headphones
+    - 1x 2.1 DC power
+- 1x Power switch
+- 2x CD4051
+- 1x 74HC595N
+- Miscellaneous passives
 
 #### Software
 
