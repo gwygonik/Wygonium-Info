@@ -22,15 +22,15 @@ The beauty of this project's journey is that this elaborate process unfolded in 
 
 ### GB01 Synth
 
-![A picture of the Wygonium GB01 synth](/images/Wygonium_GB01_square.jpg =200x)
+![A picture of the Wygonium GB01 synth](/images/Wygonium_GB01_square.jpg | width=200px)
 
 ### C|RB Ribbon Controller
-![A picture of the Wygonium C|RB ribbon controller](/images/Wygonium_CRB_square.jpg =200x)
+![A picture of the Wygonium C|RB ribbon controller](/images/Wygonium_CRB_square.jpg)
 
 ### M101 MIDI Input
 
-![A picture of the Wygonium M101 MIDI interface](/images/Wygonium_M101_square.jpg =200x)
+![A picture of the Wygonium M101 MIDI interface](/images/Wygonium_M101_square.jpg)
 
 ### ORBsq Algorithmic Sequencer
 
-![A picture of the Wygonium ORBsq sequencer](/images/Wygonium_ORBsq_square.jpg =200x)
+![A picture of the Wygonium ORBsq sequencer](/images/Wygonium_ORBsq_square.jpg)
