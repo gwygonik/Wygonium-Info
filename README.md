@@ -32,10 +32,7 @@ Click a component to learn more.
 
 ### M101 MIDI Input
 
-![A picture of the Wygonium M101 MIDI interface.](/images/Wygonium_M101_square.jpg)
-
-- Provides MIDI input to GB01
-- Pitchbend range adjustable in GB01
+[<img src="images/Wygonium_M101_square.jpg">](/WygoniumM101.md)
 
 ### ORBsq Algorithmic Sequencer
 
