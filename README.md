@@ -24,7 +24,7 @@ Click a component to learn more.
 
 ### [GB01 Synth](/WygoniumGB01.md)
 
-[![A picture of the Wygonium GB01 synth.](/images/Wygonium_GB01_square.jpg)](/WygoniumGB01.md)
+[![A picture of the Wygonium GB01 synth.](/images/Wygonium_GB01_square.jpg)](/Wygonium-Info/WygoniumGB01.md)
 
 ### C|RB Ribbon Controller
 
