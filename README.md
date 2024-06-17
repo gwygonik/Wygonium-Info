@@ -4,7 +4,7 @@ When a close friend, and fellow musician, jokingly asked me to 3D print him a lo
 
 And then I made him one.
 
-![The initial Wygonium synth kit](/images/WygoniumKit.png)
+![A picture of several electronic devices that comprised the initial Wygonium synthesizer kit.](/images/WygoniumKit.png)
 
 ## The Story
 
@@ -22,8 +22,15 @@ The beauty of this project's journey is that this elaborate process unfolded in 
 
 ### GB01 Synth
 
+![A picture of the Wygonium GB01 synth](/images/Wygonium_GB01_square.jpg =200x)
+
 ### C|RB Ribbon Controller
+![A picture of the Wygonium C|RB ribbon controller](/images/Wygonium_CRB_square.jpg =200x)
 
 ### M101 MIDI Input
 
+![A picture of the Wygonium M101 MIDI interface](/images/Wygonium_M101_square.jpg =200x)
+
 ### ORBsq Algorithmic Sequencer
+
+![A picture of the Wygonium ORBsq sequencer](/images/Wygonium_ORBsq_square.jpg =200x)
