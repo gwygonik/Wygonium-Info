@@ -28,7 +28,7 @@ Click a component to learn more.
 
 ### [C|RB Ribbon Controller](/CRBController.md)
 
-[<img src="/images/Wygonium_CRB_square.jpg">](/CRBController.md))
+[<img src="/images/Wygonium_CRB_square.jpg">](/CRBController.md)
 
 ### M101 MIDI Input
 
