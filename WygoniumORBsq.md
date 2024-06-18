@@ -41,7 +41,7 @@
 
 ## The ORBsq Story
 
-### Variation on a(n Algorithmic) Theme
+### Variations on a(n Algorithmic) Theme
 
 When I was very young I received two presents that shaped my future: an Atari 2600 with the Basic Programming cartridge (sensible parents) and an old, beat-up electric guitar (not-so-sensible brother-in-law). 
 
