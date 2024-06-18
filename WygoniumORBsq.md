@@ -99,3 +99,13 @@ Finally, I also wanted to add a feature to the core Wygonium GB01 synth that I e
 Though the algorithmic patterns seem simple, through the various inputs, adjustments, and filters, one can generate very complex patterns that can evolve over time, but always weaving back around to where it started.
 
 Kind of like how me and tech and music all circle around each other, coming together from time to time, but always in close orbit. What are the things in your life that you always come back to for inspiration and learning?
+
+<table align="center">
+    <tr>
+        <td align="center" width="125px"><h3 id="gb01-synth"><a href="/Wygonium-Info/WygoniumGB01.html">GB01 Synth</a></h3><p><a href="/Wygonium-Info/WygoniumGB01.html"><img src="images/Wygonium_GB01_square.jpg" /></a></p></td>
+        <td align="center" width="125px"><h3 id="crb-ribbon-controller"><a href="/Wygonium-Info/CRBController.html">C|RB Ribbon Controller</a></h3><p><a href="/Wygonium-Info/CRBController.html"><img src="images/Wygonium_CRB_square.jpg" /></a></p></td>
+        <td align="center" width="125px"><h3 id="m101-midi-input"><a href="/Wygonium-Info/WygoniumM101.html">M101 MIDI Input</a></h3><p><a href="/Wygonium-Info/WygoniumM101.html"><img src="images/Wygonium_M101_square.jpg" /></a></p>
+</td>
+        <td align="center" width="125px"><h3 id="orbsq-algorithmic-sequencer"><a href="/Wygonium-Info/WygoniumORBsq.html">ORBsq Algorithmic Sequencer</a></h3><p><a href="/Wygonium-Info/WygoniumORBsq.html"><img src="images/Wygonium_ORBsq_square.jpg" /></a></p></td>
+    </tr>
+</table>
