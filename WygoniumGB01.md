@@ -1,3 +1,5 @@
+[<img alt="Return to main page link image" src="images/nav_main.png" height="50px">](/README.md)
+
 # Wygonium GB01 Synth
 
 ![A picture of the Wygonium GB01 Synthesizer. It is a wedge-shaped device that is mostly black with a white front panel. It has a display screen and knobs.](/images/Wygonium_GB01_square.jpg)

@@ -26,8 +26,8 @@
 - Teensy 4.1
 - 2.42" OLED display
 - 5x Bourns 20mm 10K illuminated sliders
+- 1x Omron Electronics tactile switch
 - 1x I2C rotary encoder
-- 1x  tactile button
 - Jacks:
     - 1x RJ45 Ethernet
     - 1x 2.1mm DC power

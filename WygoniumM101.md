@@ -1,3 +1,5 @@
+[<img alt="Return to main page link image" src="images/nav_main.png" height="50px">](/README.md)
+
 # Wygonium M101 MIDI Input
 
 ![A picture of the Wygonium M101 MIDI input device. It is a small box with a round input jack for a MIDI cable.](/images/Wygonium_M101_square.jpg)

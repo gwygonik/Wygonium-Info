@@ -1,3 +1,5 @@
+[<img alt="Return to main page link image" src="images/nav_main.png" height="50px">](/README.md)
+
 # Wygonium C|RB Ribbon Controller
 
 ![A picture of the Wygonium C-RB Ribbon Controller. It is a long, rectangular device that is mostly black with a long touch strip and a white panel with a button.](/images/Wygonium_CRB_square.jpg)
