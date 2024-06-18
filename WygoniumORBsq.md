@@ -100,7 +100,9 @@ Though the algorithmic patterns seem simple, through the various inputs, adjustm
 
 Kind of like how me and tech and music all circle around each other, coming together from time to time, but always in close orbit. What are the things in your life that you always come back to for inspiration and learning?
 
-<table align="center">
+__________
+
+<table align="center" valign="top">
     <tr>
         <td align="center" width="125px"><a href="/Wygonium-Info/WygoniumGB01.html"><img src="images/Wygonium_GB01_square.jpg" /></a><p><h3 id="gb01-synth"><a href="/Wygonium-Info/WygoniumGB01.html">GB01 Synth</a></h3></p></td>
         <td align="center" width="125px"><a href="/Wygonium-Info/CRBController.html"><img src="images/Wygonium_CRB_square.jpg" /></a><p><h3 id="crb-ribbon-controller"><a href="/Wygonium-Info/CRBController.html">C|RB Ribbon Controller</a></h3></p></td>
