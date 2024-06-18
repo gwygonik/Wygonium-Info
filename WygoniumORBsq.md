@@ -63,7 +63,6 @@ My module generated control voltages from this path through the noise that could
 I made one "final" prototype and gave it to a good friend. Then I moved on.
 
 ![A picture of several hardware prototypes of OrbWeaver modules](/images/orbweaver_euro_evo.jpg)
-OrbWeaver Module - prototype after prototype
 
 #### The Theme, Var 2
 
@@ -76,7 +75,6 @@ With this variation, I was able to add in the display I wanted in my hardware ve
 I uploaded everything to GitHub, packaged everything for eventual submission to the VCV Rack library, then moved on.
 
 ![A screencap of VCV Rack software, showing the virtual version of OrbWeaver](/images/orbweaver_vcv.jpg)
-Virtual OrbWeaver module in VCV Rack
 
 #### The Theme, Var 3
 
@@ -93,7 +91,6 @@ I had created filtering of steps based on the same algorithm that generated the 
 Finally, I also wanted to add a feature to the core Wygonium GB01 synth that I enjoyed from modular - mapping the incoming signals to musical scales, like Major, Minor, Blues, etc. Learning how to program this would make the ORBsq more musically interesting and useful, and offer new creative possibilities for user-performed input.
 
 ![A picture of the ORBsq sequencer next to the GB01 synth.](/images/orbandgb_li.jpg)
-ORBsq alongside the GB01 Synth
 
 #### Finale
 
