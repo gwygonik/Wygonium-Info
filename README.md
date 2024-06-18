@@ -24,7 +24,7 @@ Click a component to learn more.
 
 <table align="center">
     <tr>
-        <td align="center"><a href="/WygoniumGB01.md"><img src="images/Wygonium_GB01_square.jpg" alt="some text"></a></td>
+        <td align="center"><h3 id="gb01-synth"><a href="/Wygonium-Info/WygoniumGB01.html">GB01 Synth</a></h3><p><a href="/Wygonium-Info/WygoniumGB01.html"><img src="images/Wygonium_GB01_square.jpg" /></a></p></td>
         <td align="center"><a href="/WygoniumGB01.md"><img src="images/Wygonium_GB01_square.jpg" alt="some text"></a></td>
     </tr>
     <tr>
