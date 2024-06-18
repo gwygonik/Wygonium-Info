@@ -1,4 +1,4 @@
-[<img alt="Return to main page link image" src="images/nav_main.png">](/README.md)
+[<img alt="Return to main page link image" src="images/nav_main.png" height="50px">](/README.md)
 
 # Wygonium ORBsq Algorithmic Sequencer
 
