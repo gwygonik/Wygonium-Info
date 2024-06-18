@@ -1,6 +1,6 @@
 # Wygonium M101 MIDI Input
 
-![A picture of the Wygonium M101 MIDI input device. It is a small box with a round input jack for a MIDI cable.](/images/Wygonium_M101_square.jpg)
+![A picture of the Wygonium ORBsq sequencer. It is a wedge-shaped device that is entirely black. It has a display screen and several sliders for input.](/images/Wygonium_ORBsq_square.jpg)
 
 ## Info
 
@@ -40,6 +40,8 @@
 - FastLED implementation of Perlin Noise
 
 ## The ORBsq Story
+
+### Variation on a(n Alrogithmic) Theme
 
 When I was very young I received two presents that shaped my future: an Atari 2600 with the Basic Programming cartridge (sensible parents) and an old, beat-up electric guitar (not-so-sensible brother-in-law). 
 
