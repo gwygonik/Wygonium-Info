@@ -30,22 +30,6 @@ Click a component to learn more.
     <tr>
         <td align="center"><h3 id="m101-midi-input"><a href="/Wygonium-Info/WygoniumM101.html">M101 MIDI Input</a></h3><p><a href="/Wygonium-Info/WygoniumM101.html"><img src="images/Wygonium_M101_square.jpg" /></a></p>
 </td>
-        <td align="center"><h3 id="orbsq-algorithmic-sequencer"><a href="/Wygonium-Info/WygoniumORBsq.html">ORBsq Algorithmic Sequencer</a></h3><p><a href="/Wygonium-Info/WygoniumORBsq.html"><img src="images/Wygonium_ORBsq_square.jpg" /></a></td>
+        <td align="center"><h3 id="orbsq-algorithmic-sequencer"><a href="/Wygonium-Info/WygoniumORBsq.html">ORBsq Algorithmic Sequencer</a></h3><p><a href="/Wygonium-Info/WygoniumORBsq.html"><img src="images/Wygonium_ORBsq_square.jpg" /></a></p></td>
     </tr>
 </table>
-
-### [GB01 Synth](/WygoniumGB01.md)
-
-[<img src="images/Wygonium_GB01_square.jpg">](/WygoniumGB01.md)
-
-### [C|RB Ribbon Controller](/CRBController.md)
-
-[<img src="images/Wygonium_CRB_square.jpg">](/CRBController.md)
-
-### [M101 MIDI Input](/WygoniumM101.md)
-
-[<img src="images/Wygonium_M101_square.jpg">](/WygoniumM101.md)
-
-### [ORBsq Algorithmic Sequencer](/WygoniumORBsq.md)
-
-[<img src="images/Wygonium_ORBsq_square.jpg">](/WygoniumORBsq.md)
