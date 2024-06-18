@@ -1,4 +1,4 @@
-# Wygonium M101 MIDI Input
+# Wygonium ORBsq Algorithmic Sequencer
 
 ![A picture of the Wygonium ORBsq sequencer. It is a wedge-shaped device that is entirely black. It has a display screen and several sliders for input.](/images/Wygonium_ORBsq_square.jpg)
 
