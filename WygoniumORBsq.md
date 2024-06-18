@@ -104,9 +104,9 @@ __________
 
 <table align="center">
     <tr valign="top">
-        <td align="center" width="125px" valign="top"><a href="/Wygonium-Info/WygoniumGB01.html"><img src="images/Wygonium_GB01_square.jpg" /></a><p><h3 id="gb01-synth"><a href="/Wygonium-Info/WygoniumGB01.html">GB01 Synth</a></h3></p></td>
-        <td align="center" width="125px" valign="top"><a href="/Wygonium-Info/CRBController.html"><img src="images/Wygonium_CRB_square.jpg" /></a><p><h3 id="crb-ribbon-controller"><a href="/Wygonium-Info/CRBController.html">C|RB Ribbon Controller</a></h3></p></td>
-        <td align="center" width="125px" valign="top"><a href="/Wygonium-Info/WygoniumM101.html"><img src="images/Wygonium_M101_square.jpg" /></a><p><h3 id="m101-midi-input"><a href="/Wygonium-Info/WygoniumM101.html">M101 MIDI Input</a></h3></p></td>
-        <td align="center" width="125px" valign="top"><a href="/Wygonium-Info/WygoniumORBsq.html"><img src="images/Wygonium_ORBsq_square.jpg" /></a><p><h3 id="orbsq-algorithmic-sequencer"><a href="/Wygonium-Info/WygoniumORBsq.html">ORBsq Algorithmic Sequencer</a></h3></p></td>
+        <td align="center" width="150px" valign="top"><a href="/Wygonium-Info/WygoniumGB01.html"><img src="images/Wygonium_GB01_square.jpg" width="100px" /></a><p><h4 id="gb01-synth"><a href="/Wygonium-Info/WygoniumGB01.html">GB01 Synth</a></h4></p></td>
+        <td align="center" width="150px" valign="top"><a href="/Wygonium-Info/CRBController.html"><img src="images/Wygonium_CRB_square.jpg" width="100px" /></a><p><h4 id="crb-ribbon-controller"><a href="/Wygonium-Info/CRBController.html">C|RB Ribbon Controller</a></h4></p></td>
+        <td align="center" width="150px" valign="top"><a href="/Wygonium-Info/WygoniumM101.html"><img src="images/Wygonium_M101_square.jpg" width="100px" /></a><p><h4 id="m101-midi-input"><a href="/Wygonium-Info/WygoniumM101.html">M101 MIDI Input</a></h4></p></td>
+        <td align="center" width="150px" valign="top"><a href="/Wygonium-Info/WygoniumORBsq.html"><img src="images/Wygonium_ORBsq_square.jpg" width="100px" /></a><p><h4 id="orbsq-algorithmic-sequencer"><a href="/Wygonium-Info/WygoniumORBsq.html">ORBsq Algorithmic Sequencer</a></h4></p></td>
     </tr>
 </table>
