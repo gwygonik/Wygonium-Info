@@ -23,7 +23,7 @@
 
 - Teensy 4.1
 - 2.42" OLED display
-- 5x 20mm illuminated sliders
+- 5x Bourns 20mm 10K illuminated sliders
 - 1x I2C rotary encoder
 - 1x  tactile button
 - Jacks:
