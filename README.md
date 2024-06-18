@@ -1,4 +1,4 @@
-# Wygonium Synth Kit Info
+# Wygonium Synth Info
 
 When a close friend, and fellow musician, jokingly asked me to 3D print him a long-forgotten German music synthesizer from the 1930s, I laughed. 
 
