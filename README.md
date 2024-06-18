@@ -22,6 +22,17 @@ The beauty of this project's journey is that this elaborate process unfolded in 
 
 Click a component to learn more.
 
+<table align="center">
+    <tr>
+        <td align="center"><a href="/WygoniumGB01.md"><img src="images/Wygonium_GB01_square.jpg" alt="some text"></a></td>
+        <td align="center"><a href="/WygoniumGB01.md"><img src="images/Wygonium_GB01_square.jpg" alt="some text"></a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="/WygoniumGB01.md"><img src="images/Wygonium_GB01_square.jpg" alt="some text"></a></td>
+        <td align="center"><a href="/WygoniumGB01.md"><img src="images/Wygonium_GB01_square.jpg" alt="some text"></a></td>
+    </tr>
+</table>
+
 ### [GB01 Synth](/WygoniumGB01.md)
 
 [<img src="images/Wygonium_GB01_square.jpg">](/WygoniumGB01.md)
