@@ -78,9 +78,11 @@
 "GB" are the initials of the friend that I built the synth for.
 
 A sample of the Quick Start guide I made (click to enlarge)
+
 [<img alt="A picture showing some of the printed pages from the GB01 quick start guide" src="images/QuickStartSample.png" height="350px">](/images/QuickStartSample.png)
 
 The overall architecture diagram I made to explain how things fit together. It looks nice, but isn't terribly useful IMO. (click to enlarge)
+
 [<img alt="A picture the system architecture of the GB01." src="images/ARCHITECTURE.png" height="350px">](/images/ARCHITECTURE.png)
 
 Here's the very first GB01 I made, but thought the shape was too much like existing devices (e.g.: Blofeld, Elektron machines, et al)
