@@ -103,6 +103,7 @@ Kind of like how me and tech and music all circle around each other, coming toge
 ## Other Stuff
 
 One of the PCBs used in the ORBsq, which holds the Teensy microprocessor and the voltage regulator. I tried to give myself enough power rails for all the things 😅
+
 ![A picture of the front and back of a circuit board that holds the Teensy 4.1 microprocessor used in the sequencer](/images/ORB_pcbs.jpg)
 
 __________
