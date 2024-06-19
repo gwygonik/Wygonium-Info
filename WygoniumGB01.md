@@ -83,7 +83,7 @@ A sample of the Quick Start guide I made (click to enlarge)
 
 The overall architecture diagram I made to explain how things fit together. It looks nice, but isn't terribly useful IMO. (click to enlarge)
 
-[<img alt="A picture the system architecture of the GB01." src="images/ARCHITECTURE.png" height="350px">](/images/ARCHITECTURE.png)
+[<img alt="A picture the system architecture of the GB01." src="images/ARCHITECTURE.png" width="700px">](/images/ARCHITECTURE.png)
 
 Here's the very first GB01 I made, but thought the shape was too much like existing devices (e.g.: Blofeld, Elektron machines, et al)
 
