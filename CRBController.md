@@ -50,6 +50,10 @@ The back of the ribbon sticks are also laser-engraved and painted (here before a
 
 ![A pic of the back of the ribbon sticks](/images/CRB_sticks_back.png)
 
+I had made a version of the Ribbon Controller using a Sensel Touch pressure-sensitive pad (including a ribbon stick-like overlay), but they don't make the Touch pads anymore and I seemingly got the last "developer cable", it wasn't really a good path forward.
+
+![A pic of a rectangular pad next to the GB01 prototype](/images/SenselController.jpg)
+
 __________
 
 <table align="center">
