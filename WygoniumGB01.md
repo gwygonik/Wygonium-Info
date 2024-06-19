@@ -83,6 +83,11 @@ Here's the very first GB01 I made, but thought the shape was too much like exist
 I really wanted the GB01 to be in a vertical orientation, but ergonomically and functionally it was not a good option. Sadly.
 ![A pic of the GB01 in it's vertical orientation](/images/GB01_ideal.png)
 
+What's inside a GB01?
+![A picture of the GB01 internal components on the table next to the case, surrounded by other musical synthesizers](/images/GB01Internals1.jpg)
+
+Early version (1.2) of the main PCBs in the GB01.
+![A picture of two circuit boards from the GB01, one is the holder for the Teensy, the other is the interface panel for the buttons and rotary encoders](/images/GB01PCBs.jpg)
 __________
 
 <table align="center">
