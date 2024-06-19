@@ -85,7 +85,7 @@ I really wanted the GB01 to be in a vertical orientation, but ergonomically and 
 
 ![A pic of the GB01 in it's vertical orientation](/images/GB01_ideal.png)
 
-What's inside a GB01?
+What's inside a GB01? At least the non-cool tactile button GB01. 😉 (Note, the ridiculously long cables are for testing only; the final devices have used much, much shorter cables.)
 
 ![A picture of the GB01 internal components on the table next to the case, surrounded by other musical synthesizers](/images/GB01Internals1.jpg)
 
