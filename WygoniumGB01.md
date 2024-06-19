@@ -89,7 +89,7 @@ What's inside a GB01?
 
 ![A picture of the GB01 internal components on the table next to the case, surrounded by other musical synthesizers](/images/GB01Internals1.jpg)
 
-Early version (1.2) of the main PCBs in the GB01.
+Early version (1.2) of the main PCBs in the GB01. (Final PCBs are version 1.5)
 
 ![A picture of two circuit boards from the GB01, one is the holder for the Teensy, the other is the interface panel for the buttons and rotary encoders](/images/GB01PCBs.jpg)
 __________
