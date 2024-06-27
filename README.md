@@ -28,8 +28,11 @@ Click a component to learn more.
         <td align="center"><h3 id="crb-ribbon-controller"><a href="/Wygonium-Info/CRBController.html">C|RB Ribbon Controller</a></h3><p><a href="/Wygonium-Info/CRBController.html"><img src="images/Wygonium_CRB_square.jpg" /></a></p></td>
     </tr>
     <tr>
-        <td align="center"><h3 id="m101-midi-input"><a href="/Wygonium-Info/WygoniumM101.html">M101 MIDI Input</a></h3><p><a href="/Wygonium-Info/WygoniumM101.html"><img src="images/Wygonium_M101_square.jpg" /></a></p>
-</td>
+        <td align="center"><h3 id="m101-midi-input"><a href="/Wygonium-Info/WygoniumM101.html">M101 MIDI Input</a></h3><p><a href="/Wygonium-Info/WygoniumM101.html"><img src="images/Wygonium_M101_square.jpg" /></a></p></td>
         <td align="center"><h3 id="orbsq-algorithmic-sequencer"><a href="/Wygonium-Info/WygoniumORBsq.html">ORBsq Algorithmic Sequencer</a></h3><p><a href="/Wygonium-Info/WygoniumORBsq.html"><img src="images/Wygonium_ORBsq_square.jpg" /></a></p></td>
+    </tr>
+    <tr>
+        <td align="center"><h3 id="orbsq-mi-sequencer"><a href="/Wygonium-Info/WygoniumORBsqMi.html">ORBsq Mi MIDI Algorithmic Sequencer</a></h3><p><a href="/Wygonium-Info/WygoniumORBsqMi.html"><img src="images/Wygonium_ORBsqMi_square.jpg" /></a></p></td>
+        <td align="center"></td>
     </tr>
 </table>
