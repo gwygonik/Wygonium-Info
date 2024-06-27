@@ -32,7 +32,7 @@ Click a component to learn more.
         <td align="center"><h3 id="orbsq-algorithmic-sequencer"><a href="/Wygonium-Info/WygoniumORBsq.html">ORBsq Algorithmic Sequencer</a></h3><p><a href="/Wygonium-Info/WygoniumORBsq.html"><img src="images/Wygonium_ORBsq_square.jpg" /></a></p></td>
     </tr>
     <tr>
-        <td align="center"><h3 id="orbsq-mi-sequencer"><a href="/Wygonium-Info/WygoniumORBsqMi.html">ORBsq Mi MIDI Algorithmic Sequencer</a></h3><p><a href="/Wygonium-Info/WygoniumORBsqMi.html"><img src="images/Wygonium_ORBsqMi_square.jpg" /></a></p></td>
+        <td align="center"><h3 id="orbsq-mi-sequencer"><a href="/Wygonium-Info/WygoniumORBsqMi.html">ORBsq Mi<br/>MIDI Algorithmic Sequencer</a></h3><p><a href="/Wygonium-Info/WygoniumORBsqMi.html"><img src="images/Wygonium_ORBsqMi_square.jpg" /></a></p></td>
         <td align="center"></td>
     </tr>
 </table>
