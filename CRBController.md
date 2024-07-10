@@ -50,7 +50,7 @@ The back of the ribbon sticks are also laser-engraved and painted (here before a
 
 ![A pic of the back of the ribbon sticks](/images/CRB_sticks_back.png)
 
-I was going to emulate the input bar from the Trautonium by putting springs under the ribbon bar, which would add an additional layer of feedback to performing. I tried different springs and even designed and 3D printed several conformant mechanisms to give springy-ness in the small space, but really didn't like how it felt. I chose to go with just the pressure-sensitive strip under the softpot.
+I was going to emulate the input bar from the Trautonium by putting springs under the ribbon bar, which would add an additional layer of feedback to performing. I tried different springs and even designed and 3D printed several compliant mechanisms to give springy-ness in the small space, but really didn't like how it felt. I chose to go with just the pressure-sensitive strip under the softpot.
 
 ![An animated image of the first version of the ribbon controller being pressed, showing how it springs up and down](/images/CRBspringy.gif) 
 
