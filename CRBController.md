@@ -50,7 +50,11 @@ The back of the ribbon sticks are also laser-engraved and painted (here before a
 
 ![A pic of the back of the ribbon sticks](/images/CRB_sticks_back.png)
 
-I had made a version of the Ribbon Controller using a Sensel Touch pressure-sensitive pad (including a ribbon stick-like overlay), but they don't make the Touch pads anymore and I seemingly got the last "developer cable", it wasn't really a good path forward.
+I was going to emulate the input bar from the Trautonium by putting springs under the ribbon bar, which would add an additional layer of feedback to performing. I tried different springs and even designed and 3D printed several conformant mechanisms to give springy-ness in the small space, but really didn't like how it felt. I chose to go with just the pressure-sensitive strip under the softpot.
+
+![An animated image of the first version of the ribbon controller being pressed, showing how it springs up and down](/images/CRBspringy.gif) 
+
+I had also made a version of the Ribbon Controller using a Sensel Touch pressure-sensitive pad (including a ribbon stick-like overlay), but they don't make the Touch pads anymore and I seemingly got the last "developer cable", it wasn't really a good path forward. A 500mm-long by 20mm-wide version of this would be great, but I'd have to have it custom manufactured and that's not going to happen just yet.
 
 ![A pic of a rectangular pad next to the GB01 prototype](/images/SenselController.jpg)
 

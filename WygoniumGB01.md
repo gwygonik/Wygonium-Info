@@ -6,7 +6,7 @@
 
 ## Info
 
-- 6 oscillators each with 7 waveforms (from pristine classics to lo-fi vintage digital synths)
+- 6 oscillators each with 10 waveforms (from pristine classics to lo-fi vintage digital synths)
     - 2 primary oscillators with independent adjustment ±12 semitones 
     - 4 “subharmonic” oscillators with selectable divisions (1-24) of the played pitch
     - Global detune for huge sounds
@@ -42,7 +42,7 @@
 
 - Teensy 4.1
 - Teensy Audio Board
-- 2.42" OLED display (SSD1309)
+- 2.42" OLED display (SSD1309, SPI)
 - 4x Bourns rotary encoders
 - 1x 10k audio taper potentiometer
 - 8x NKK 12mm tactile buttons
