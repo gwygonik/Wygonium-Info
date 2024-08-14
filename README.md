@@ -18,9 +18,13 @@ Understanding the complete journey of product creation and use is a critical tra
 
 The beauty of this project's journey is that this elaborate process unfolded in a garage, powered by common maker tools, a handful of YouTube videos, and the wealth of knowledge within the online community. It echoes a sentiment I shared in a talk I gave at SXSWi almost 12 years ago: there has never been a better time to turn ideas into reality! The power to create, innovate, and shape the future is within reach, even in the most unassuming spaces.
 
+## Audio Demos (with video)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n8TZCEXR_Vg?si=F-DSQLmDkzGVfck9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## The Devices
 
-Click a component to learn more.
+Click a device to see more videos, pictures, and info about it.
 
 <table align="center">
     <tr>
